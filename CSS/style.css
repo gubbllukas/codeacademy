@@ -1,11 +1,9 @@
-p {
-  font-family: Arial;
+p,
+h5 {
+  font-family: Georgia;
 }
 h1 {
   color: maroon;
-}
-h5 {
-  color: rebeccapurple !important;
 }
 h2.destination {
   font-family: cursive;
