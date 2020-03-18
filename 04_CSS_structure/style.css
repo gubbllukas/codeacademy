@@ -53,6 +53,7 @@ body {
     background-color: white;
     color: black;
     display: block;
+    opacity: 0.75;
     font-family: 'Playfair Display', serif;
     font-size: 14px;
     font-style: italic;
